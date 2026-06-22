@@ -31,7 +31,7 @@ REST API for URL shortening and redirection.
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,nextjs,typescript,nodejs,git,linux,c" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,linux,nextjs,react,typescript,tailwind,git,vercel,c" />
 </div>
 
 ## 🌐 Connect With Me
