@@ -1,11 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0D1B2A&height=200&section=header&text=Hey,%20I'm%20Tahir%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-Junior Python & backend engineer — I build APIs, data models, and scalable web apps.
+Junior Python & backend engineer, I build APIs, data models, and scalable web apps.
 
 **FastAPI • PostgreSQL • SQLAlchemy • Docker**
-
-Seeking **Summer 2026 Software Engineering opportunities**
 </div>
 
 ## Projects
